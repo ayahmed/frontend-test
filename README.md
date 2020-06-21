@@ -1,4 +1,4 @@
-# mapbox
+# Frontend Test
 
 ## Project setup
 ```
